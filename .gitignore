@@ -1,0 +1,14 @@
+x64/
+*.lib
+.vs/
+temp.cpp
+Test.cpp
+SDLExeption.cpp
+SDLExeption.h
+*.sln
+*.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+Snake.zip
+Snake_referense.txt
+SnakeGame.aps
